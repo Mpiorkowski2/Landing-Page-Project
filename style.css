@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0% 200px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.header{
+display: flex;
+justify-content: space-between;
+background-color: rgb(7, 7, 34);
+color: white;
+
+
+}
+#links{
+    display: flex;
+    margin-left: auto;
+    gap: 20px;
+}
+a{
+text-decoration: none;
+color: inherit;
+}
+
+.bod-one{
+
+}
+
+.bod-two{
+
+}
+
+.bod-three{
+
+}
+
+.bod-four{
+
+}
+
+.bod-footer{
+
+}
