@@ -41,7 +41,6 @@ flex-wrap: wrap;
 
 }
 .TW{
-    box-sizing: border-box;
     gap: 16px;
 }
 .b{
@@ -136,7 +135,7 @@ display: flex;
 justify-content: center;
 padding: 100px 200px;
 flex-wrap: wrap;
-flex-direction: cl;
+
 }
 .call-to-action{
     background-color: #3882f6;
